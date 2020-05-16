@@ -4,8 +4,6 @@ This repository contain all relevant files for custom Gazebo world built to hous
 
 
 
-
-
 ### Getting started
 
 First, you need to build the project. Navigate to build directory and execute the following commands:
